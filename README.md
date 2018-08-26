@@ -1,10 +1,15 @@
 CS 383 Pong Readme
 
-To begin, follow the link submitted under "Assignment 1 Code" to github.com
-Next, select "Clone or Download" from Github.
-Note: Download github desktop app at: https://desktop.github.com (for easier access to git)
-Choose whether you would like to clone repository or download ZIP.
-Note: ZIP is the easier of the two choices for beginners to get into the game.
+To begin, follow the link submitted under "Assignment 1 Code" to github.com. 
+
+Next, select "Clone or Download" from Github. 
+
+Note: Download github desktop app at: https://desktop.github.com (for easier access to git). 
+
+Choose whether you would like to clone repository or download ZIP. 
+
+Note: ZIP is the easier of the two choices for beginners to get into the game. 
+
 
 If ZIP download is chosen: 
 
